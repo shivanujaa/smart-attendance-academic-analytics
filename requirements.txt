@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+python-dotenv
+opencv-python-headless
+Pillow
+matplotlib
+seaborn
+xgboost
+joblib
+face-recognition
+dlib
